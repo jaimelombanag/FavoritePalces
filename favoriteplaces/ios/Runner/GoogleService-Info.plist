@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>556401354156-f3f1dflvi7o1og6vrlldo0k6ebq6ru7o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.556401354156-f3f1dflvi7o1og6vrlldo0k6ebq6ru7o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>556401354156-kpfm30phou1vmq32ja6cqj4r34dppaui.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAS6hvRzwUDqU_s4IJZ23n_kX3kSaa5Jdg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>556401354156</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jaime.favoriteplaces</string>
+	<key>PROJECT_ID</key>
+	<string>platzitripsflutter-804be</string>
+	<key>STORAGE_BUCKET</key>
+	<string>platzitripsflutter-804be.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:556401354156:ios:8a582c6be42b64db1cc609</string>
+	<key>DATABASE_URL</key>
+	<string>https://platzitripsflutter-804be.firebaseio.com</string>
+</dict>
+</plist>
