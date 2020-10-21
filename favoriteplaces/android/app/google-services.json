@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "556401354156",
+    "firebase_url": "https://platzitripsflutter-804be.firebaseio.com",
+    "project_id": "platzitripsflutter-804be",
+    "storage_bucket": "platzitripsflutter-804be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556401354156:android:8b930ff5c54b5c851cc609",
+        "android_client_info": {
+          "package_name": "com.anncode.platzitripsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556401354156-n4c6t9sq2iomqs04dorhvud95hfm24e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anncode.platzitripsapp",
+            "certificate_hash": "84c3d0cfb16dff10f64ff8c1c32df088f6beee9c"
+          }
+        },
+        {
+          "client_id": "556401354156-p5o8kari63oieu8rmbeebllf0nb524r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCWAG5KyFF1izDNqtOxvnVId1i9paVL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556401354156-p5o8kari63oieu8rmbeebllf0nb524r3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556401354156-p6frntkr6mud69q7c7los2q8lccmm11a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anncode.platzitripsflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556401354156:android:58ee44e7dd38f3c71cc609",
+        "android_client_info": {
+          "package_name": "com.jaime.favoriteplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556401354156-kpfm30phou1vmq32ja6cqj4r34dppaui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaime.favoriteplaces",
+            "certificate_hash": "84c3d0cfb16dff10f64ff8c1c32df088f6beee9c"
+          }
+        },
+        {
+          "client_id": "556401354156-p5o8kari63oieu8rmbeebllf0nb524r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCWAG5KyFF1izDNqtOxvnVId1i9paVL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556401354156-p5o8kari63oieu8rmbeebllf0nb524r3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556401354156-p6frntkr6mud69q7c7los2q8lccmm11a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anncode.platzitripsflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
