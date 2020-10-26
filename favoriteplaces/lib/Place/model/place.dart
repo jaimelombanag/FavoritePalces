@@ -1,8 +1,20 @@
-class Place {
-  String name;
-  String where;
-  String type;
-  String steps;
+import 'package:favoriteplaces/User/model/user.dart';
+import 'package:flutter/cupertino.dart';
 
-  Place(this.name, this.where, this.type, this.steps);
+class Place {
+  String id;
+  String name;
+  String description;
+  String ulrImage;
+  int likes;
+  User userOwner;
+
+  Place({
+    Key key,
+    @required this.name,
+    @required this.description,
+    @required this.ulrImage,
+    this.likes,
+    @required this.userOwner
+  });
 }
